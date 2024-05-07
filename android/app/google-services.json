@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72588735121",
+    "project_id": "fundus-app-19899",
+    "storage_bucket": "fundus-app-19899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72588735121:android:c52a9352a9add43f214530",
+        "android_client_info": {
+          "package_name": "com.example.fundus_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUrw1jFs0k6PkuT0Y-U7d2oOQPG7DbouY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
